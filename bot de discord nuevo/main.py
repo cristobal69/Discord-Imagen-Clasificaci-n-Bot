@@ -66,4 +66,4 @@ async def detectar(ctx):
     os.remove(output_path)
 
 # Reemplaza "TOKEN" con tu token real
-bot.run("MTI1NzQ4NDAwMzEyMDkwNjI5Mg.GPH_kB.l_9E96pI0j1SRv2axi007wnEZYlnWA4ajQM1Tg")
+bot.run("TOKEN")
